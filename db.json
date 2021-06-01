@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Watch Tutorials About React",
+      "day": "May 31st at 1pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Make This App",
+      "day": "June 1st at 3pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Debug Code",
+      "day": "June 2nd at 9am",
+      "reminder": true
+    },
+    {
+      "text": "Finish This App!",
+      "day": "June 4th 7pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
